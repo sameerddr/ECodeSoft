@@ -1,0 +1,29 @@
+.login {
+    margin: 100px 0px 0px 500px;
+    text-align: center;
+    background-color: royalblue;
+    width: 400px;
+}
+
+.btn {
+    margin: 10px 0px;
+    padding: 5px 30px;
+    cursor: pointer;
+    background-color: rgb(25, 21, 21);
+    color: white;
+}
+
+input {
+    padding: 5px;
+    border-radius: 10px;
+    border: none;
+}
+
+.form {
+    padding: 10px;
+    margin: 10px;
+}
+
+h2 {
+    color: whitesmoke;
+}

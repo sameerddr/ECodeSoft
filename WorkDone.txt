@@ -1,0 +1,14 @@
+Thanks for giving me this opptunity. The Assignemnt was reaaly very good & not tough too.
+I have make Login page where you can Login and after that you can navigate to home page.
+
+Functionality-
+Login & Logout Functionality.
+Fetched data from API using axios.
+Used react router dom.
+
+
+Conclusion - 
+I have not used POST menthod that is why i can do it.But really, i will do it again 
+from tommorow and i will try it till i not completed.
+
+Thanks for your time. 
